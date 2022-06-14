@@ -37,12 +37,15 @@ body {
 .container img {
   display: block;
   align-self: center;
-  width: 30%;
   border-radius: 50%;
   border: 10px solid var(--colorSix);
   
 }
 
+img {
+  min-width: 30%;
+  max-width: 70%;
+}
 
 button {
   border: none;
