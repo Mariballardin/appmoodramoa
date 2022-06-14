@@ -16,7 +16,7 @@ const buttonPerguntar = document.querySelector('#buttonPerguntar')
       "Pedrinho da Tijuca. Tom Cruise brasileiro.",
       "Plutão ainda é um planeta da Astrologia",
       "A vida é muito loka né? Também acho.",
-      "Siga sempre sorrindo."
+      "Siga sempre sorrindo.",
       "Esse corte é meio Helena do Manoel Carlos",
       "sigo exausta",
       "gostosa sim.",
