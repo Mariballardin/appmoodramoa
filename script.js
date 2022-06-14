@@ -20,7 +20,7 @@ const buttonPerguntar = document.querySelector('#buttonPerguntar')
       "Esse corte é meio Helena do Manoel Carlos",
       "sigo exausta",
       "gostosa sim.",
-      "estou com efeitos secundários da covid19: ficquei ainda mais gato.",
+      "estou com efeitos secundários da covid19: fiquei ainda mais gato.",
       "ai sei lá gabi só quem viveu sabe",
       "eu tô pobre mas eu tô na Europa",
       "quem nasceu piriga nunca vai ser diva.",

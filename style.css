@@ -70,3 +70,8 @@ button:hover {
   font-family: var(--font-Two);
   transition: opacity 1s;
 }
+
+.resposta {
+
+  margin-bottom: 50px;
+}
