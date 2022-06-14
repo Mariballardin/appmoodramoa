@@ -66,7 +66,7 @@ button:hover {
   font-size: 3.2rem;
   margin-top: 40px;
   margin-bottom: 10rem;
-  color: var(--color1);
+  color: var(--colorThree);
   font-family: var(--font-Two);
   transition: opacity 1s;
 }
